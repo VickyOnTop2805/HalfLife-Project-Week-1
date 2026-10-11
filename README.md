@@ -886,6 +886,224 @@ about learning new technical tools.
 
 <hr>
 
+<hr>
+
+<h2>Designing My Custom Starbie Logo</h2>
+
+<h3>Why I Wanted to Make a Logo</h3>
+
+<p>
+After spending so much time designing the actual PCB, I wanted
+to do something a little more creative and give Starbie its own
+identity. Until this point, most of my work involved schematics,
+footprints, copper tracks, and fixing errors in KiCad.
+</p>
+
+<p>
+I realised that even though the circuit board was mostly finished,
+I didn't really have anything that made the project visually
+recognisable as Starbie.
+</p>
+
+<p>
+Since Starbie is supposed to be a cute little digital pet,
+I wanted the logo to reflect that personality rather than
+looking like a serious electronics company logo.
+</p>
+
+<p>
+My idea was to combine a friendly star character with
+elements that represent electronics and space.
+I wanted someone looking at the logo to understand
+that Starbie is supposed to be playful, interactive,
+and a little futuristic.
+</p>
+
+<h3>The Logo Design</h3>
+
+<p>
+For the main design, I chose a smiling star character
+because the name Starbie immediately made me think
+of stars and space.
+</p>
+
+<p>
+I wanted the character to look friendly, with
+expressive eyes and a happy face, because the
+actual device is intended to behave like a digital pet.
+</p>
+
+<p>
+I also included small stars, orbit-like shapes,
+and circuit-board-inspired lines around the name.
+The circuit traces connect the design back to the
+electronics side of the project.
+</p>
+
+<p>
+I kept the design mostly monochrome so that it
+could potentially be adapted for the PCB silkscreen,
+where simple lines and high contrast are useful.
+</p>
+
+<h3>My Starbie Logo</h3>
+
+<div align="center">
+
+  <img
+    src="images/starbie-logo.png"
+    alt="Custom Starbie logo showing a smiling star mascot and circuit-inspired lettering"
+    width="600"
+  >
+
+  <p>
+    <em>
+      My custom Starbie logo, featuring a smiling star mascot,
+      space-inspired details, and electronic circuit patterns.
+    </em>
+  </p>
+
+</div>
+
+<h3>What I Wanted the Logo to Represent</h3>
+
+<p>
+I wanted the logo to represent the main idea behind
+the project: combining technology with personality.
+</p>
+
+<p>
+The star character represents Starbie itself,
+while the circuit patterns represent the PCB
+and electronics that make the project possible.
+</p>
+
+<p>
+The orbit shapes add a space theme and make
+the design more playful.
+</p>
+
+<p>
+I also wanted it to feel like something that
+could eventually be printed on the device's
+enclosure or used as an icon for the firmware.
+</p>
+
+<h3>Challenges With the Logo</h3>
+
+<p>
+One thing I had to think about was the difference
+between designing a logo for a screen and designing
+something that might eventually go on a PCB.
+</p>
+
+<p>
+A detailed logo can look good when viewed at
+a large size, but it might become difficult
+to recognise when reduced to a tiny area.
+</p>
+
+<p>
+PCB silkscreen printing also has limitations.
+Very small lines, text, and details may not
+appear clearly after manufacturing.
+</p>
+
+<p>
+Because of this, I want to experiment with
+making a simpler version of the logo that
+could fit on the PCB without overlapping
+pads, tracks, or important component labels.
+</p>
+
+<p>
+The full logo would be better suited for
+the GitHub README, project documentation,
+and possibly a future enclosure.
+</p>
+
+<h3>How Long I Spent on the Logo</h3>
+
+<p>
+I spent around 58 minutes working on the
+logo design and thinking about how it
+should represent Starbie.
+</p>
+
+<p>
+I honestly didn't expect the visual side
+of the project to take that much thought.
+After spending hours on the circuit board,
+I thought making a logo would be the easy part.
+</p>
+
+<p>
+But I realised there were quite a few
+things to consider, including the character,
+lettering, overall composition, and how
+the design would work at different sizes.
+</p>
+
+<p>
+It was a nice change from troubleshooting
+KiCad, and I enjoyed having something
+more creative to work on.
+</p>
+
+<h3>How I Plan to Use the Logo</h3>
+
+<p>
+I would like to use the logo in several
+parts of the Starbie project.
+</p>
+
+<ul>
+  <li>As the main image in my GitHub README.</li>
+  <li>On the project documentation and progress updates.</li>
+  <li>As inspiration for a simpler PCB silkscreen design.</li>
+  <li>On a future 3D-printed enclosure.</li>
+  <li>As a possible startup image or branding element for Starbie.</li>
+</ul>
+
+<h3>What I Learned</h3>
+
+<p>
+Working on the logo made me realise that
+building a project isn't only about making
+the electronics work.
+</p>
+
+<p>
+Presentation and design are important too,
+especially when the goal is to create
+something that people will interact with.
+</p>
+
+<p>
+I also learned that a design made for a
+computer screen isn't automatically suitable
+for manufacturing.
+</p>
+
+<p>
+Before putting this logo directly onto the
+PCB, I would need to simplify it, check
+the minimum line widths, and make sure
+it fits in an appropriate area.
+</p>
+
+<p>
+I'm happy that Starbie now has a visual
+identity to go along with the electronic
+design. It makes the whole project feel
+more personal to me.
+</p>
+
+<img src="images/starbie-logo.png"
+     alt="Starbie logo"
+     width="600">
+<hr>
+
 <h2>What I Would Improve</h2>
 
 <h3>Component Compatibility</h3>
