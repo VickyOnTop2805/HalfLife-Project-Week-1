@@ -1099,9 +1099,22 @@ design. It makes the whole project feel
 more personal to me.
 </p>
 
-<img src="images/starbie-logo.png"
-     alt="Starbie logo"
-     width="600">
+<h2>My Custom Starbie Logo</h2>
+
+<div align="center">
+  <img
+    src="starbie-logo.png"
+    alt="My custom Starbie logo"
+    width="600"
+  >
+
+  <p>
+    <em>
+      My custom logo for Starbie, featuring a smiling
+      star character and circuit-inspired details.
+    </em>
+  </p>
+</div>
 <hr>
 
 <h2>What I Would Improve</h2>
