@@ -10,16 +10,32 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 2.72h | 1 |
+| Week 1 | Tier 1 | 5.32h | 1 |
 
 ## Contents
 
-1. [2026-10-11 – Work session](#2026-10-11-work-session)
+1. [2026-10-11 – After working on my Starbie PCB design video, I faced a huge problem in my finalised Starbie project. When i ran the project it started showing many errors that was outside my knowledge. To remove the](#2026-10-11-after-working-on-my-starbie-pcb-design-video-i-fa)
 
 ## Design
 
-### 2026-10-11 – Work session
+### 2026-10-11 – After working on my Starbie PCB design video, I faced a huge problem in my finalised Starbie project. When i ran the project it started showing many errors that was outside my knowledge. To remove the
 
-**2.72h**
+**5.32h**
+
+After working on my Starbie PCB design video, I faced a huge problem in my finalised Starbie project. When i ran the project it started showing many errors that was outside my knowledge. To remove these errors, I spent additional time checking and improving the project. I reviewed the schematic connections between the XIAO ESP32-C3, buttons, OLED display, MPU6050 sensor and DHT11 sensor.
+
+I also worked on assigning component footprints and fixing problems with the custom KiCad libraries. One issue was that the XIAO footprint's silkscreen overlapped solder-mask openings. I investigated the warnings and modified the footprint graphics, reducing the DRC warnings from 8 to one.
+
+I ran the Design Rules Checker, checked the schematic against the PCB and confirmed that KiCad reported zero electrical errors and zero unconnected items. I exported the Gerber and drill files and opened them in Gerber Viewer to inspect the board.
+
+The biggest challenge was learning the difference between schematic symbols, footprints and PCB layers. I now understand more about how a circuit becomes a physical board.
+
+Next, I plan to verify component dimensions and pinouts, review the final design and prepare it for the next build stage.
+
+![Screen Shot 2026-10-11 at 10.28.02 pm](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/fcc43e3005eb2126f6f5d6751fe712472f7137344b39dd7c94bb5a4005a1819d.png)
+
+![Screen Shot 2026-10-11 at 10.28.22 pm](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/0486f09654469f16e4b961b4c6acda7f87d680322bfc53b9d70b04162617cfe5.png)
+
+![Screen Shot 2026-10-11 at 10.28.50 pm](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cBBK111nWIThGGVNKRtywaVwPwdRViXt/2a0a0a8c9113bbe954a87c3ff683d8b4c89cb678869d307f324e3aad83739b97.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/a75765f4-0004-4c7a-894e-92c38181b0e1/video.mp4)
